@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Error Reader</string>
+    <string name="hint_error_code">Enter error code</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<database>
+    <code value="e0">
+        <description>Description e0</description>
+        <fixSteps>
+            <step>Do something #1</step>
+            <step>Do something #2</step>
+            <step>Do something #3</step>
+        </fixSteps>
+    </code>
+    <code value="e3">
+        <description>Description e3</description>
+        <fixSteps>
+            <step>Do something</step>
+        </fixSteps>
+    </code>
+</database>
